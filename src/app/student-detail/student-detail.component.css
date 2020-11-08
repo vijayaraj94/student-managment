@@ -1,0 +1,13 @@
+#page-content {
+    padding: 20px;
+}
+.example-full-width {
+    width: 100%;
+}
+table {
+    width: 100%;
+}
+.noData {
+    text-align: center;
+    padding: 10px 0;
+}
